@@ -25,6 +25,6 @@ dockerfile = "Dockerfile"
 
 [deploy]
 healthcheckPath = "/health"
-healthcheckTimeout = 10
+healthcheckTimeout = 15
 
 # Note: Variables are set in the Railway UI for this option 
